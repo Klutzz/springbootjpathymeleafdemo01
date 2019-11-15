@@ -11,6 +11,7 @@ import javax.persistence.*;
 @NoArgsConstructor
 @Entity
 @Table(name = "tb_user")
+// 我修改了一下
 public class User {
 
     @Id
